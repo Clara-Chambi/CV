@@ -17,7 +17,7 @@
         background-color: #fdfdfd;
         color: black;
         line-height: 1.6;
-        width: 100%;
+        width: 100vw;
         height: 100%;
         padding: 0;
        
@@ -28,6 +28,7 @@
             background: linear-gradient(90deg, #9bd1e9 70%, #fbedab 0%);
             color: white;
             text-align: center;
+            width: 100vw;
         }
 
         header h1 {
