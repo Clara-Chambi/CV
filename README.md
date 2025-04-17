@@ -22,7 +22,7 @@
         }
 
         header {
-            background: linear-gradient(135deg, #87C4FF, #E0BBE4);
+            background: linear-gradient(135deg, #8ce5f8, ##006faa);
             color: white;
             padding: 3rem 2rem;
             text-align: center;
@@ -287,9 +287,9 @@
     <footer>
         © Clara - Candidature pour Evoliz. Merci pour votre attention
         <br>
-        Une image très réelle, pas du tout faite avec Photoshop et avec un humour un peu mauvais.
+       
         <div style="flex: 1 1 500px; padding: 20px;">
-            <img src="jalis.png" alt="Equipe jalis + moi" style="width: 100%; border-radius: 12px;">
+            <img src="jalis.png" alt="logo Evoliz" style="width: 100%;">
         </div>
     </footer>
 </body>
