@@ -32,7 +32,7 @@
 
 
         header {
-            background: linear-gradient(90deg, #9bd1e9 70%, #fbedab 0%);
+            background: linear-gradient(90deg, #9bd1e9 70%, #fbedab 30%);
             color: white;
             text-align: center;
             width: 100%;
