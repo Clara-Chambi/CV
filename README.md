@@ -6,7 +6,6 @@
     <link rel="icon" href="icone.png" type="image/png">
     <style>
         * {
-            box-sizing: border-box;
             margin: 0;
             padding: 0;
         }
