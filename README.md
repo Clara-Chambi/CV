@@ -37,6 +37,7 @@
             text-align: center;
             width: 100%;
             papping: 60px 20px;
+            height: 100%;
         }
 
         header h1 {
