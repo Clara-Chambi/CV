@@ -289,7 +289,7 @@
         <br>
        
         <div style="flex: 1 1 500px; padding: 20px;">
-            <img src="jalis.png" alt="logo Evoliz" style="width: 100%;">
+            <img src="evoliz.png" alt="logo Evoliz" style="width: 100%;">
         </div>
     </footer>
 </body>
