@@ -222,7 +222,7 @@
 <body>
     <header>
         <h1>Clara — Webdesigner & UX Designer</h1>
-        <p>Une candidature sur-mesure pour Jalis, à Marseille ✨</p>
+        <p>Une candidature sur-mesure pour Evoliz, à La Garde ✨</p>
     </header>
 
     <div class="intro-section">
@@ -271,17 +271,21 @@
 
     <section class="why-section">
         <div class="why-content">
-            <h2>Pourquoi Jalis ?</h2>
-            <p>Votre approche du digital m'inspire. Je souhaite contribuer à des projets concrets, tout en continuant à apprendre auprès d'une équipe experte et bienveillante.
+            <h2>Pourquoi Evoliz ?</h2>
+            <p>Votre approche m'inspire, simplifier la gestion quotidienne pour les TPE/PME me parle, enfant de commercant et chef d'entreprise j'ai vu tous les défis auxquels ils doivent faire face. 
+            Je souhaite contribuer à des projets concrets, tout en continuant à apprendre auprès d'une équipe experte et bienveillante.
+            Votre positionnement à taille humaine et de proximité me correspond particulièrement.
+
+            C'est déjà la deuxième fois que je postules sur ce poste, je suis tenace et très motivée.
                 <br>
-                Je suis convaincue que rejoindre Jalis me permettra de m'épanouir professionnellement dans un environnement stimulant et collaboratif.
+                Je suis convaincue que rejoindre Evoliz me permettra de m'épanouir professionnellement dans un environnement stimulant et collaboratif.
             </p>
             <a class="contact-btn" href="mailto:clara83chambi@gmail.com">Me contacter</a>
         </div>
     </section>
 
     <footer>
-        © Clara - Candidature pour Jalis. Merci pour votre attention
+        © Clara - Candidature pour Evoliz. Merci pour votre attention
         <br>
         Une image très réelle, pas du tout faite avec Photoshop et avec un humour un peu mauvais.
         <div style="flex: 1 1 500px; padding: 20px;">
