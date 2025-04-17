@@ -12,14 +12,15 @@
         }
 
         body {
-            margin: 0;
-            font-family: 'Segoe UI', sans-serif;
-            background-color: #fdfdfd;
-            color: black;
-            line-height: 1.6;
-            width: 100%;
-            height: 100%;
-        }
+        margin: 0;
+        font-family: 'Segoe UI', sans-serif;
+        background-color: #fdfdfd;
+        color: black;
+        line-height: 1.6;
+        width: 100%;
+        height: 100%;
+    }
+
 
         header {
             background: linear-gradient(90deg, #9bd1e9 70%, #fbedab 0%);
