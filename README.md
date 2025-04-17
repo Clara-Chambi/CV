@@ -6,7 +6,7 @@
     <link rel="icon" href="icone.png" type="image/png">
     <style>
         * {
-            width: 100%;
+            box-sizing : border-box;
             margin: 0;
             padding: 0;
         }
@@ -27,7 +27,6 @@
         header {
             background: linear-gradient(90deg, #9bd1e9 70%, #fbedab 0%);
             color: white;
-            padding: 3rem 2rem;
             text-align: center;
         }
 
