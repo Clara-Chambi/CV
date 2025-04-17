@@ -12,7 +12,7 @@
         }
 
         body {
-        margin: 0;
+        margin: 20;
         font-family: 'Segoe UI', sans-serif;
         background-color: #fdfdfd;
         color: black;
