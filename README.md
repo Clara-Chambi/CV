@@ -6,6 +6,7 @@
     <link rel="icon" href="icone.png" type="image/png">
     <style>
         * {
+            width: 100%;
             margin: 0;
             padding: 0;
         }
