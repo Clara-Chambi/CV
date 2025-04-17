@@ -7,9 +7,16 @@
     <style>
         * {
             box-sizing: border-box;
-            margin: 0;
-            padding: 0;
         }
+
+        html, body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        pagging: 0;
+        }
+
+        
 
         body {
         margin: 0;
@@ -29,6 +36,7 @@
             color: white;
             text-align: center;
             width: 100%;
+            papping: 60px 20px;
         }
 
         header h1 {
@@ -128,7 +136,7 @@
 
         .skills-container {
             max-width: 100%;
-            margin: 0 auto;
+            widht: 100%;
         }
 
         .why-section {
@@ -141,8 +149,8 @@
         }
 
         .why-content {
-            max-width: 100%;
-            margin: 0 auto;
+           max-width: 100%;
+            widht: 100%;
         }
 
         .why-section h2 {
@@ -219,6 +227,12 @@
         .intro-section p {
             font-size: 1.1em;
             line-height: 1.6;
+        }
+
+        .section, .section-skilss, .why-section, .intro-section {
+        max-width: 100vw;
+        padding-left: 0;
+        padding-right: 0;
         }
     </style>
 </head>
