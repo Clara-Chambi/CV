@@ -28,7 +28,7 @@
             background: linear-gradient(90deg, #9bd1e9 70%, #fbedab 0%);
             color: white;
             text-align: center;
-            width: 100vw;
+            width: 100%;
         }
 
         header h1 {
