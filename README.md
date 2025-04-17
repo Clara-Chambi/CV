@@ -19,7 +19,8 @@
         line-height: 1.6;
         width: 100%;
         height: 100%;
-        border-box : none;
+        padding: 0;
+       
     }
 
 
