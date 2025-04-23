@@ -35,8 +35,8 @@
             background: linear-gradient(90deg, #9bd1e9 70%, #fbedab 30%);
             color: white;
             text-align: center;
-            widht: 100%;
-            padding: 60px 20px;
+            width: 100%;
+            padding: 120px 20px;
             height: 100%;
         }
 
