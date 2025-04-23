@@ -14,6 +14,7 @@
         height: 100%;
         margin: 0;
         padding: 0;
+        overflow-x: hidden;
         }
 
         
@@ -24,9 +25,10 @@
         background-color: #fdfdfd;
         color: black;
         line-height: 1.6;
-        widht: 100%;
-        height: 100%;
+        widht: 100vw;
+        height: 100vh;
         padding: 0;
+        box-sizing: border-box;
        
     }
 
