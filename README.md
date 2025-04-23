@@ -13,7 +13,7 @@
         width: 100%;
         height: 100%;
         margin: 0;
-        pagging: 0;
+        padding: 0;
         }
 
         
@@ -24,7 +24,7 @@
         background-color: #fdfdfd;
         color: black;
         line-height: 1.6;
-        width: 100%;
+        widht: 100%;
         height: 100%;
         padding: 0;
        
@@ -35,8 +35,8 @@
             background: linear-gradient(90deg, #9bd1e9 70%, #fbedab 30%);
             color: white;
             text-align: center;
-            width: 100%;
-            papping: 60px 20px;
+            widht: 100%;
+            padding: 60px 20px;
             height: 100%;
         }
 
